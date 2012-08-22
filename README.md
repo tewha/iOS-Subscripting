@@ -2,6 +2,8 @@
 
 Headers to provide subscripting support. The implementations are provided by libarclite.
 
+This is an interim solution to subscripting; it will almost certainly not be necessary when the iOS 6 SDK is released (even for building to iOS 5).
+
 ## Usage ##
 1. Add header to your project.
 2. #import it.
