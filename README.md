@@ -6,7 +6,7 @@ This is an interim solution to subscripting; it will almost certainly not be nec
 
 ## Usage ##
 1. Add header to your project.
-2. #import it.
+2. `#import "Foundation+sdfsubscripts.h"` Ideally, from your pch.
 
 ## License ##
 For this? Free and public domain. Do whatever you want with it. Enjoy.
