@@ -30,9 +30,4 @@
 
 @end
 
-@interface NSCache(sdfsubscripts)
-- (id)objectForKeyedSubscript:(id)key;
-- (void)setObject:(id)obj forKeyedSubscript:(id <NSCopying>)key;
-@end
-
 #endif
