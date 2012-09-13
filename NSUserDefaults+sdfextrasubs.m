@@ -16,7 +16,7 @@
 #ifdef __IPHONE_6_0
 #define CAST_TO_BLOCK id
 #else
-#define BRIDGE __bridge void *
+#define CAST_TO_BLOCK __bridge void *
 #endif
 
 + (void)load {
